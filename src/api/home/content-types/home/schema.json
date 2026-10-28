@@ -61,6 +61,11 @@
       "component": "shared.benefits-sec",
       "repeatable": false
     },
+    "home_choice_sec": {
+      "type": "component",
+      "component": "sections.choice-sec",
+      "repeatable": false
+    },
     "home_platform_sec": {
       "type": "component",
       "component": "shared.home-platforms",
