@@ -77,6 +77,11 @@
       "component": "shared.invoice-terms-sec",
       "repeatable": false
     },
+    "invoice_process_sec": {
+      "type": "component",
+      "component": "shared.invoice-process-sec",
+      "repeatable": false
+    },
     "Seo": {
       "type": "component",
       "component": "shared.seo",
