@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_shared_contacts_offices",
+  "info": {
+    "displayName": "contacts_office"
+  },
+  "options": {},
+  "attributes": {
+    "city": {
+      "type": "string"
+    },
+    "location": {
+      "type": "string"
+    },
+    "map_coordinates_yandex": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

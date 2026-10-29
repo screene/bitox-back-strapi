@@ -28,6 +28,11 @@
     },
     "map_coordinates_yandex": {
       "type": "string"
+    },
+    "offices": {
+      "type": "component",
+      "component": "shared.contacts-office",
+      "repeatable": true
     }
   },
   "config": {}
