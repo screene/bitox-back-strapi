@@ -11,6 +11,9 @@
     "link": {
       "type": "string"
     },
+    "description": {
+      "type": "text"
+    },
     "logo": {
       "type": "media",
       "multiple": false,
