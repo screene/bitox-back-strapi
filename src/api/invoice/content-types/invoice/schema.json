@@ -82,6 +82,11 @@
       "component": "shared.invoice-process-sec",
       "repeatable": false
     },
+    "invoice_choice_sec": {
+      "type": "component",
+      "component": "sections.choice-sec",
+      "repeatable": false
+    },
     "Seo": {
       "type": "component",
       "component": "shared.seo",
