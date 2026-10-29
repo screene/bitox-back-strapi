@@ -8,6 +8,9 @@
     "title_sec": {
       "type": "string"
     },
+    "list_title": {
+      "type": "string"
+    },
     "offices_map_image": {
       "type": "media",
       "multiple": false,
