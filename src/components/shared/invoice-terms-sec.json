@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_shared_invoice_terms_secs",
+  "info": {
+    "displayName": "invoice_terms_sec"
+  },
+  "options": {},
+  "attributes": {
+    "title_section": {
+      "type": "string"
+    },
+    "term_items": {
+      "type": "component",
+      "component": "section-items.invoice-term-item",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}
