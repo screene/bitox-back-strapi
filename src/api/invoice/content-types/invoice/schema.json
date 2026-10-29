@@ -72,6 +72,11 @@
       "component": "shared.faq-sec",
       "repeatable": false
     },
+    "invoice_terms_sec": {
+      "type": "component",
+      "component": "shared.invoice-terms-sec",
+      "repeatable": false
+    },
     "Seo": {
       "type": "component",
       "component": "shared.seo",
