@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_shared_invoice_process_secs",
+  "info": {
+    "displayName": "invoice_process_sec"
+  },
+  "options": {},
+  "attributes": {
+    "process_item": {
+      "type": "component",
+      "component": "section-items.invoice-process-item",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}
