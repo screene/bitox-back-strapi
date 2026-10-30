@@ -87,6 +87,11 @@
       "component": "sections.choice-sec",
       "repeatable": false
     },
+    "invoice_faq_sec": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.faq-sec"
+    },
     "Seo": {
       "type": "component",
       "component": "shared.seo",
