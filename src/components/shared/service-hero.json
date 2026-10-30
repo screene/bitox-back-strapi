@@ -18,6 +18,9 @@
         "images",
         "files"
       ]
+    },
+    "button_note": {
+      "type": "string"
     }
   },
   "config": {}
