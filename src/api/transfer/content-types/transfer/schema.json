@@ -55,6 +55,11 @@
       "component": "shared.faq-sec",
       "repeatable": false
     },
+    "transfer_choice_sec": {
+      "type": "component",
+      "repeatable": false,
+      "component": "sections.choice-sec"
+    },
     "Seo": {
       "type": "component",
       "component": "shared.seo",
